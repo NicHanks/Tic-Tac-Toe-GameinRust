@@ -8,9 +8,9 @@ To start, download the files. Next, download vs code, rust, and the extension fo
 
 # Things to know
 
-Rust was downloaded and used to compile code. It is not needed to run the compiled code in the file. The compiled code in the file can be ran without rust downloaded. 
-Don't forget to use the extensions! Rust.ls, Crate, and Rust Analyser.
-Extensions Error Lens and Tabnine might help but are not needed.
+Rust was downloaded and used to compile the code.
+Don't forget to download the extensions! Rust.ls, Crate, and Rust Analyser.
+Extensions Error Lens and Tabnine might be helpfull but are not needed.
 
 # Other Links:
 - [Setup article](https://users.rust-lang.org/t/setting-up-rust-with-vs-code/76907)
