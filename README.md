@@ -2,7 +2,7 @@
 
 Hey there! Welcome to my tic tac toe game in rust! It is super fun and easy to use. 
 
-To start, download the files. Next, download vs code, rust, and the extension for rust in vs code. Then all you have to do is type in "cargo run" into the terminal and play the game!
+To start, download the files. Next, download vs code, rust, and the extension for rust in vs code. Then all you have to do is type "cargo run" in the terminal and play the game!
 
 [Software Demo Video](http://youtube.link.goes.here)
 
