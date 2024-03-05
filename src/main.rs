@@ -7,8 +7,7 @@ fn greeting() {
     println!(
         "\nRust TicTacToe\n\
          --------------\n\
-         A simple game written in the rust programming language.\n\
-         Code is available at: https://github.com/flofriday/tictactoe"
+         A simple game written in the rust programming language.\n"
     )
 }
 
